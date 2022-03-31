@@ -1,5 +1,3 @@
-package com.example;
-
 import com.example.service.SpeakerService;
 import com.example.service.SpeakerServiceImpl;
 
